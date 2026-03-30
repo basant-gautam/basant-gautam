@@ -27,6 +27,7 @@
 - Name: **Basant Gautam**
 - Current Focus: **AI Agents, Deep Learning, Open Source**
 - Interests: **Scalable APIs, intelligent automation, practical ML systems**
+- Open-source Contributor: **llm4s**
 
 ---
 
@@ -53,32 +54,13 @@
 
 ## Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>Trading Bot</h3>
-      <p>Automated strategy execution with risk controls and real-time insights.</p>
-      <p><b>Stack:</b> Python, FastAPI, Docker</p>
-    </td>
-    <td width="50%">
-      <h3>Connect Now</h3>
-      <p>Modern full-stack networking platform with real-time interactions.</p>
-      <p><b>Stack:</b> MERN, WebSockets</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Smart Copilot</h3>
-      <p>AI-powered assistant for productivity and developer workflows.</p>
-      <p><b>Stack:</b> Python, LLM APIs, React</p>
-    </td>
-    <td width="50%">
-      <h3>More Projects</h3>
-      <p>More high-impact builds are on the way.</p>
-      <p><b>Status:</b> Coming Soon</p>
-    </td>
-  </tr>
-</table>
+- [@basant-gautam/trading_bot](https://github.com/basant-gautam/trading_bot) — Automated trading system with risk management, real-time data ingestion, and deployable strategy APIs. Stack: Python, FastAPI, Docker.
+
+- [@basant-gautam/Food-Intent-Co-pilot](https://github.com/basant-gautam/Food-Intent-Co-pilot) — Intelligent assistant for food ordering and recommendations using intent detection and conversational flows. Stack: Python, LLM APIs, React.
+
+- [@basant-gautam/ConnectNow](https://github.com/basant-gautam/ConnectNow) — Modern full-stack networking platform with real-time interactions and scalable WebSocket-based services. Stack: MERN, WebSockets.
+
+- [@basant-gautam/telegram-video-to-gif-bot](https://github.com/basant-gautam/telegram-video-to-gif-bot) — Lightweight Telegram bot that converts video clips to optimized GIFs with configurable presets. Stack: Python, Telegram Bot API.
 
 ---
 
@@ -96,3 +78,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basant-gautam&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
 </p>
+
+---
