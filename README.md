@@ -85,10 +85,10 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="linkedin.com/in/basant-gautam-993a98324/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="basantgautam18312006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
