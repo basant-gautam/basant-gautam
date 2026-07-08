@@ -4,19 +4,19 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,100:111827&text=Basant%20Gautam&fontColor=22d3ee&fontSize=48&fontAlignY=38&desc=AI%20Agents%20%7C%20Deep%20Learning%20%7C%20Open%20Source&descAlignY=58&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,100:111827&text=Basant%20Gautam&fontColor=22d3ee&fontSize=48&fontAlignY=38&desc=AI%20Agents%20%7C%20Deep%20Learning%20%7C%20Backend%20Engineering&descAlign=50&descAlignY=55" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+with+AI+Agents;Deep+Learning+Enthusiast+%7C+Open+Source+Contributor;Python+%7C+FastAPI+%7C+React+%7C+Docker+%7C+MERN+%7C+Scala" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+with+AI+Agents;Architecting+Scalable+APIs+%26+Services;Contributing+to+Open+Source" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/basant-gautam">
     <img src="https://img.shields.io/badge/GitHub-basant--gautam-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
+  <a href="https://portfolio-nine-ivory-71.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
   </a>
 </p>
 
@@ -54,13 +54,13 @@
 
 ## Featured Projects
 
-- [@basant-gautam/trading_bot](https://github.com/basant-gautam/trading_bot) — Automated trading system with risk management, real-time data ingestion, and deployable strategy APIs. Stack: Python, FastAPI, Docker.
+- [@basant-gautam/trading_bot](https://github.com/basant-gautam/trading_bot) — Automated trading system with risk management, real-time data ingestion, and deployable strategy APIs. Stack: Python, FastAPI, WebSocket
 
-- [@basant-gautam/Food-Intent-Co-pilot](https://github.com/basant-gautam/Food-Intent-Co-pilot) — Intelligent assistant for food ordering and recommendations using intent detection and conversational flows. Stack: Python, LLM APIs, React.
+- [@basant-gautam/Food-Intent-Co-pilot](https://github.com/basant-gautam/Food-Intent-Co-pilot) — Intelligent assistant for food ordering and recommendations using intent detection and conversational AI
 
-- [@basant-gautam/ConnectNow](https://github.com/basant-gautam/ConnectNow) — Modern full-stack networking platform with real-time interactions and scalable WebSocket-based services. Stack: MERN, WebSockets.
+- [@basant-gautam/ConnectNow](https://github.com/basant-gautam/ConnectNow) — Modern full-stack networking platform with real-time interactions and scalable WebSocket-based services. Stack: MERN
 
-- [@basant-gautam/telegram-video-to-gif-bot](https://github.com/basant-gautam/telegram-video-to-gif-bot) — Lightweight Telegram bot that converts video clips to optimized GIFs with configurable presets. Stack: Python, Telegram Bot API.
+- [@basant-gautam/telegram-video-to-gif-bot](https://github.com/basant-gautam/telegram-video-to-gif-bot) — Lightweight Telegram bot that converts video clips to optimized GIFs with configurable compression
 
 ---
 
